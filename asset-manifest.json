@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/PigLatin/static/js/main.815b8406.chunk.js",
-    "main.js.map": "/PigLatin/static/js/main.815b8406.chunk.js.map",
-    "runtime-main.js": "/PigLatin/static/js/runtime-main.8bde19a9.js",
-    "runtime-main.js.map": "/PigLatin/static/js/runtime-main.8bde19a9.js.map",
-    "static/js/2.3431f88a.chunk.js": "/PigLatin/static/js/2.3431f88a.chunk.js",
-    "static/js/2.3431f88a.chunk.js.map": "/PigLatin/static/js/2.3431f88a.chunk.js.map",
-    "index.html": "/PigLatin/index.html",
-    "precache-manifest.47c2c94384ac4a075005c7340dce980c.js": "/PigLatin/precache-manifest.47c2c94384ac4a075005c7340dce980c.js",
-    "service-worker.js": "/PigLatin/service-worker.js",
-    "static/js/2.3431f88a.chunk.js.LICENSE.txt": "/PigLatin/static/js/2.3431f88a.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.e4504e62.chunk.js",
+    "main.js.map": "/static/js/main.e4504e62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f26f7ad4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f26f7ad4.js.map",
+    "static/js/2.3431f88a.chunk.js": "/static/js/2.3431f88a.chunk.js",
+    "static/js/2.3431f88a.chunk.js.map": "/static/js/2.3431f88a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e24895afaad42aedb302163ba400945.js": "/precache-manifest.5e24895afaad42aedb302163ba400945.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.3431f88a.chunk.js.LICENSE.txt": "/static/js/2.3431f88a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bde19a9.js",
+    "static/js/runtime-main.f26f7ad4.js",
     "static/js/2.3431f88a.chunk.js",
-    "static/js/main.815b8406.chunk.js"
+    "static/js/main.e4504e62.chunk.js"
   ]
 }

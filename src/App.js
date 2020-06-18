@@ -31,6 +31,14 @@ export class App extends Component {
     let translatedText = "";
     let historyList = this.state.history;
     let arrayText = text.split(" ");
+
+    
+
+    if(!text || text.length === 1) return
+    if(!text.match(/^[A-Za-z]+$/)) {
+      this.setState({translatedText: text});
+      return;
+    }
   
     arrayText.forEach((text) => {
       for(let i = 0; i < text.length; i++) {

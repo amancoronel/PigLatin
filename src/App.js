@@ -35,7 +35,7 @@ export class App extends Component {
     
 
     if(!text || text.length === 1) return
-    if(!text.match(/^[A-Za-z]+$/)) {
+    if(!text.match(/^[a-zA-Z ]*$/)) {
       this.setState({translatedText: text});
       return;
     }

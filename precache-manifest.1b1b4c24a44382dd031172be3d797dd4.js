@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58a725d0a286b33aa99db87a1a8abe47",
+    "revision": "1a1782e4f76455b7fcd95fa1870394c1",
     "url": "/PigLatin/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PigLatin/static/js/2.3431f88a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0562712ec5fbc87978f",
-    "url": "/PigLatin/static/js/main.e4504e62.chunk.js"
+    "revision": "bd0a365a7adac2adf85c",
+    "url": "/PigLatin/static/js/main.86a3b505.chunk.js"
   },
   {
     "revision": "b8a9b704c61e3867bc2b",
